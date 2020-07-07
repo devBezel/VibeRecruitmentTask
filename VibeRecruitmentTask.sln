@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibe.DAL", "Vibe.DAL\Vibe.DAL.csproj", "{CC527905-EACB-4C59-9445-4EC96907ED08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibe.BLL", "Vibe.BLL\Vibe.BLL.csproj", "{CCCC2250-4EA0-488E-A6A1-C61C916DAED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibe.API", "Vibe.API\Vibe.API.csproj", "{8B00913F-F014-4B68-98DF-90A8F894C91C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC527905-EACB-4C59-9445-4EC96907ED08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC527905-EACB-4C59-9445-4EC96907ED08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC527905-EACB-4C59-9445-4EC96907ED08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC527905-EACB-4C59-9445-4EC96907ED08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCC2250-4EA0-488E-A6A1-C61C916DAED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCC2250-4EA0-488E-A6A1-C61C916DAED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCC2250-4EA0-488E-A6A1-C61C916DAED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCC2250-4EA0-488E-A6A1-C61C916DAED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B00913F-F014-4B68-98DF-90A8F894C91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B00913F-F014-4B68-98DF-90A8F894C91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B00913F-F014-4B68-98DF-90A8F894C91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B00913F-F014-4B68-98DF-90A8F894C91C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A475A11-32A8-4D5F-9C67-0073ECB2306F}
+	EndGlobalSection
+EndGlobal

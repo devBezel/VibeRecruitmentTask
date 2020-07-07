@@ -1,0 +1,10 @@
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\bin\Debug\netcoreapp3.1\Vibe.DAL.deps.json
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\bin\Debug\netcoreapp3.1\Vibe.DAL.runtimeconfig.json
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\bin\Debug\netcoreapp3.1\Vibe.DAL.runtimeconfig.dev.json
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\bin\Debug\netcoreapp3.1\Vibe.DAL.dll
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\bin\Debug\netcoreapp3.1\Vibe.DAL.pdb
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\obj\Debug\netcoreapp3.1\Vibe.DAL.csprojAssemblyReference.cache
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\obj\Debug\netcoreapp3.1\Vibe.DAL.AssemblyInfoInputs.cache
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\obj\Debug\netcoreapp3.1\Vibe.DAL.AssemblyInfo.cs
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\obj\Debug\netcoreapp3.1\Vibe.DAL.dll
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.DAL\obj\Debug\netcoreapp3.1\Vibe.DAL.pdb

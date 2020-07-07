@@ -1,0 +1,11 @@
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\bin\Debug\netcoreapp3.1\Vibe.BLL.deps.json
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\bin\Debug\netcoreapp3.1\Vibe.BLL.dll
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\obj\Debug\netcoreapp3.1\Vibe.BLL.csprojAssemblyReference.cache
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\obj\Debug\netcoreapp3.1\Vibe.BLL.AssemblyInfoInputs.cache
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\obj\Debug\netcoreapp3.1\Vibe.BLL.AssemblyInfo.cs
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\bin\Debug\netcoreapp3.1\Vibe.BLL.pdb
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\bin\Debug\netcoreapp3.1\Vibe.DAL.dll
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\bin\Debug\netcoreapp3.1\Vibe.DAL.pdb
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\obj\Debug\netcoreapp3.1\Vibe.BLL.csproj.CopyComplete
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\obj\Debug\netcoreapp3.1\Vibe.BLL.dll
+B:\Projekty\CSharp\VibeRecruitmentTask\Vibe.BLL\obj\Debug\netcoreapp3.1\Vibe.BLL.pdb
