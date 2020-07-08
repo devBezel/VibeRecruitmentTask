@@ -7,7 +7,7 @@ using Vibe.DAL.Database.Models;
 
 namespace Vibe.BLL.Services.IService
 {
-    public interface ICompanyService
+    public interface ICompanyService : IDisposable
     {
         Task<CompanyDto> CreateCompany(CompanyDto company);
         Task<CompanyDto> UpdateCompany(int id, CompanyDto companyDto);

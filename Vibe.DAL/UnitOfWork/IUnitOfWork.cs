@@ -6,10 +6,10 @@ using Vibe.DAL.Repositories.IRepositories;
 
 namespace Vibe.DAL.UnitOfWork
 {
-    public interface IUnitOfWork
+    public interface IUnitOfWork : IDisposable
     {
         IGenericRepository GenericRepository { get; set; }
         ICompanyRepository CompanyRepository { get; set; }
-        Task Dispose();
+        Task SaveChanges();
     }
 }

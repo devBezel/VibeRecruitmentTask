@@ -22,9 +22,14 @@ namespace Vibe.DAL.UnitOfWork
         public IGenericRepository GenericRepository { get; set; }
         public ICompanyRepository CompanyRepository { get; set; }
 
-        public async Task Dispose()
+        public async Task SaveChanges()
         {
             await _context.SaveChangesAsync();
+        }
+
+        public void Dispose()
+        {
+            _context.Dispose();
         }
     }
 }

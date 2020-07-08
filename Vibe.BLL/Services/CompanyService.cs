@@ -27,7 +27,7 @@ namespace Vibe.BLL.Services
             CompanyModel company = _mapper.Map<CompanyModel>(companyDto);
 
             _unitOfWork.GenericRepository.Add(company);
-            await _unitOfWork.Dispose();
+            await _unitOfWork.SaveChanges();
 
             companyDto.Id = company.Id;
             return companyDto;
@@ -40,7 +40,7 @@ namespace Vibe.BLL.Services
                 return null;
 
             _mapper.Map(companyDto, company);
-            await _unitOfWork.Dispose();
+            await _unitOfWork.SaveChanges();
 
             return companyDto;
 
@@ -53,7 +53,7 @@ namespace Vibe.BLL.Services
                 return false;
 
             _unitOfWork.GenericRepository.Delete(company);
-            await _unitOfWork.Dispose();
+            await _unitOfWork.SaveChanges();
 
             return true;
         }
@@ -66,6 +66,11 @@ namespace Vibe.BLL.Services
                                                                                                   y.Salary <= searchDto.EmployeeSalaryTo));
             return _mapper.Map<IEnumerable<CompanyDto>>(companies);
 
+        }
+
+        public void Dispose()
+        {
+            _unitOfWork.Dispose();
         }
     }
 }
